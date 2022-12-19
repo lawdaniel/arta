@@ -6,7 +6,9 @@ nav_order: 1
 
 # Welcome to Arta!
 
-With Ben taking time away from the group, I was thinking Github Pages might be a good place to keep all our lore for easy browsing. 
+We are currently in Campaign 4: The Attunement of Consonance and Dissonance.
+
+Norm said it's working title but I love it.
 
 ----
 
