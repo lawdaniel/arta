@@ -3,8 +3,8 @@ title: Accounting
 layout: default
 ---
 # Treasure and Gold Accounting
-This really should just be a Google Spreadsheet.
-https://docs.google.com/spreadsheets/d/1OlGWv2usvTe8NudcgB8LU_K8h1p68762OYF6kTd_ytg/edit?usp=sharing
+This really should just be a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1OlGWv2usvTe8NudcgB8LU_K8h1p68762OYF6kTd_ytg/edit?usp=sharing).
+
 
 I'll delete the table below if everyone agrees that a spreadsheet is better. Some of you have advanced spreadsheet skills too. Shouldn't be that big a deal to break out everyone's inventory into their own sheet and then create a summary sheet aggregating everything. 
 
