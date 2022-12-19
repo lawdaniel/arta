@@ -1,6 +1,6 @@
 ---
 title: Berdusk
-parent: Places
+parent: Kingdom of Aldamere
 layout: default
 ---
 
