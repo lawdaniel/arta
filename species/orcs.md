@@ -1,5 +1,5 @@
 ---
-title: Ocs
+title: Orcs
 layout: default
 parent: species
 ---
