@@ -1,7 +1,7 @@
 ---
 title: Orcs
 layout: default
-parent: species
+parent: Species
 ---
 
 # The Orcs
