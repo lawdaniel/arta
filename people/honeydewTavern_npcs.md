@@ -6,11 +6,15 @@ layout: default
 
 # Honeydew Tavern Owners in Myrtle
 
- Owner/ Bartender: Jibby 
- 	![Jibby](jibby.jpg)
+Owner/ Bartender: Jibby<br>
+<img src="jibby.jpg" width="200"/>
  
- Wife / Cook: Louann 
- 	![Louann](louann.jpg)
- 
- Daughters: Olive and Pearl 
- 	![Olive and Pearl](olivePearl.jpg)
+Wife / Cook: Louann<br>
+<img src="louann.jpg" width="200"/>
+
+Daughter: Olive<br>
+<img src="olive.jpg" width="200"/>
+  
+Daughter: Pearl<br>
+<img src="pearl.jpg" width="200"/>
+ 	
