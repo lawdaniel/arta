@@ -2,7 +2,7 @@
 title: Species
 layout: default
 has_children: true
-nav_order: 3
+
 ---
 
 # Species of Arta
