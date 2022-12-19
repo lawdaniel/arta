@@ -1,7 +1,8 @@
 ---
-title: Pantheon
+title: Pantheon Overview
 parent: Religion
 layout: default
+nav_order: 1
 ---
 
 # Pantheon Overview
