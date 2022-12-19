@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Lore and History of Arta
+title: Lore and History
 nav_order: 2
 has_children: true
 ---
