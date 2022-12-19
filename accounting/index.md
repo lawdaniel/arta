@@ -2,7 +2,7 @@
 title: Accounting
 layout: default
 ---
-
+# Treasure and Gold Accounting
 This really should just be a Google Spreadsheet.
 https://docs.google.com/spreadsheets/d/1OlGWv2usvTe8NudcgB8LU_K8h1p68762OYF6kTd_ytg/edit?usp=sharing
 
