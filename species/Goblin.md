@@ -1,6 +1,7 @@
 ---
 title: Goblins
 layout: default
+parent: Lore and History
 nav_order: 1
 ---
 
