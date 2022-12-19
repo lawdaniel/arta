@@ -3,7 +3,9 @@ title: Home
 layout: home
 ---
 
-Welcome to Arta!
+#Welcome to Arta!
+
+With Ben taking time away from the group, I was thinking Github Pages might be a good place to keep all our lore for easy browsing. 
 
 ----
 
