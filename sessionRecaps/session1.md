@@ -1,5 +1,5 @@
 ---
-title: Session 1
+title: Session 1 - 9/9/2022
 parent: Session Recaps
 layout: default
 ---
