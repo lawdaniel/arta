@@ -1,5 +1,5 @@
 ---
-title: Greylord
+title: The Grey Lord
 parent: Religion
 layout: default
 ---
