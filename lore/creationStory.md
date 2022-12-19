@@ -1,6 +1,6 @@
 ---
 title: The Creation
-layout: home
+layout: default
 parent: Lore and History
 ---
 
