@@ -1,6 +1,7 @@
 ---
 title: Kingdom of Aldamere
 parent: Places
+has_children: true
 layout: default
 ---
 
@@ -12,7 +13,9 @@ The Kingdom of Aldamere, located in the Northern Great Plains, is a charming pla
 
 The kingdom itself is predominantly human, but nearly all freefolk races can be found within its borders. The one blight upon this great kingdom is that slavery is still legal. While King Eckbert did much to end the slave trade within his borders, he could not muster enough support from the nobility to completely end ownership of slaves.
 
-**Aldamere** boasts three major cities with a large urban population. All three of these cities Birodi, Norwall, and Berdusk, derive much of their economy through river trade. Birodi is best known for their steel production, with a number of master craftsmen having founded schools in Birodi. Some say a Birodidian Blade is of such quality that they are just short of a magic blade. Trade with Norwall supplies the iron for their steel forges, while Berdusk is home to numerous trade routes that allow Birodi to send much of their goods abroad.
+Aldamere boasts **three major cities** with a large urban population. All three of these cities Birodi, Norwall, and Berdusk, derive much of their economy through river trade.
+
+**[Birodi](birodi.md)** is best known for their steel production, with a number of master craftsmen having founded schools in Birodi. Some say a Birodidian Blade is of such quality that they are just short of a magic blade. Trade with Norwall supplies the iron for their steel forges, while Berdusk is home to numerous trade routes that allow Birodi to send much of their goods abroad.
 
 **[Norwall](norwall.md)** is the Northern border of Aldamere, situated in the iron rich mountains that border large tracts of untamed wilderness. I can’t say I relished staying in Norwall very long, it's too damn cold up there in the high mountains. Much of their trade is ore mining in the mountains, shipping iron ore down to Birodi via river pontoons. Hardy folk up in Norwall, with hooch that’ll put hair on ya chest or a little fire in your belly on those long cold nights.
 
