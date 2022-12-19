@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: The Arta Campaign
+description: The recorded history of Arta and it's newest band of adventurers
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://lawdaniel.github.io/arta
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/lawdaniel/arta
