@@ -3,7 +3,8 @@ title: The Creation
 layout: home
 ---
 
-# Excerpt from the account of the Vera, according to the Lore of the Elves.
+# The Creation
+## Excerpt from the account of the Vera, according to the Lore of the Elves.
 
 In the beginning, Urim, the One, resounded a perfect sound. Urim’s perfect sound went out and created the heavens, bringing forth the Vera into existence. The Vera were of Urim’s thoughts and before aught else was made, they worshiped Urim for that perfect sound.  
 
