@@ -1,5 +1,6 @@
 ---
 title: Homebrew Potions
+parent: Homebrew Changes
 layout: default
 ---
 
