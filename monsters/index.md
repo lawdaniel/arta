@@ -4,6 +4,7 @@ layout: default
 ---
 
 # Monsters and Beasts, Oh My!
+Wherever Moe is taking notes, I need access to it cuz I suck at note taking.
 
 ## Session 1
 Gazer
