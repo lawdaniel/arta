@@ -1,6 +1,7 @@
 ---
 title: The Creation
 layout: home
+parent: Lore and History
 ---
 
 # The Creation
