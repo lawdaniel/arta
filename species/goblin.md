@@ -2,7 +2,6 @@
 title: Goblins
 layout: default
 parent: Species
-nav_order: 1
 ---
 
 # The Goblins
