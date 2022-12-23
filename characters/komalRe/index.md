@@ -1,6 +1,7 @@
 ---
-title: Komal Re Index
+title: Komal Re
 parent: Characters
+has_children: true
 layout: default
 ---
 
