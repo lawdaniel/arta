@@ -1,6 +1,6 @@
 ---
-title: Characters Index
-parent: 
+title: Characters
+has_children: true
 layout: default
 ---
 
