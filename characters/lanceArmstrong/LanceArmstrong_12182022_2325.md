@@ -1,5 +1,11 @@
+---
+title: LanceArmstrong_12182022_2325
+layout: default
+nav_exclude: true
+---
+
 # 12/18/2022 11:25 PM
-## Campaign 4 Session 4.5
+## Campaign 4 Session 4.5 Prompt from Norm
 Unfastening the last strap of your armor, you pull the chainmail over your head.  You let the heavy weight fall to the ground as you feel a twinge in your side.  Rubbing the aching spot, you peer beneath your gambeson to see a dark purplish bruise and a scabbed over mark along your rib cage.  The very same spot the arrow punched through your armor and struck true.  Even with magical healing the pain doesn’t just disappear.
 
 

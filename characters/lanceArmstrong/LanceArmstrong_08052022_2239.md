@@ -1,4 +1,11 @@
+---
+title: LanceArmstrong_08052022_2239
+layout: default
+nav_exclude: true
+---
+
 # 08/05/2022 10:39 PM
+## Prompt from Norm
 “I remember that day. The day I found you.  A soldier in my retinue came running up, and said to me, ‘Master Bronwyn, we’re too late.  Everyone in the village is dead. The tracks are a few days old, at least'
 
 'Not everyone is dead.' I told him.
