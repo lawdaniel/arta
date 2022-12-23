@@ -1,44 +1,11 @@
 ---
-title: RP Interaction 1
+title: RP Interactions Komal Re
 grandparent: Characters
 parent: Komal Re
 layout: default
 ---
 
 # Roleplay Interactions on Discord
-## Prompt from Norm 08/05/2022 10:51 PM
+
+Prompt from Norm on 08/05/2022 10:51 PM
  
-“Ugh, my head.” 
-
-You awake from your drunken slumber, the taste of bile in your mouth and a pounding headache from far too many pints. You roll over in your bed, not quite sure where you are, the night before is rather hazy in your memory.  As you attempt to turn over, you bump into something hard and solid.  It feels like a boulder, and for a second you wonder who puts a boulder in a bed.  Then you remember!
-
-“Olga!” The goliath barmaid that took a liking to you.
-
-You turn your head slowly, looking up to a mountain of a woman with muscles bulging from her muscles.  Loud snoring erupts from her, reminiscent of a horn call of a cavalry charge. Last night was coming back to you as fast as the rising tide.  Olga was the barman’s only daughter, if he finds out he’ll likely crush you like a grape.
-
-Carefully and quietly you extract yourself from the covers, searching around for your clothes.  Your shirt is in tatters, Olga must have ripped it off of you.  You gather your things and with all the stealth you can muster you creep out into the hallway, hoping to make it to your own room without being discovered.  Luck of the Halflings was on your side as you make it to your room and close the door behind you, letting out a sigh of relief.
-
-“Olga!  Where are you girl?  I better not find you with that damned bard.”  A bellowing roar can be heard throughout the inn, the stomping of heavy boots shaking the whole floor with each step..
-
-“No father!” Olga’s voice is just as loud and echoing as her father’s.  You hear the banging of a door flying off its hinges.
-
-“Damn it Olga!  I’m gonna rip that scrawny halfling's legs off and beat him with it!”
-
-“No Father!  I Love him!” Olga’s voice changes to a heartfelt plea.
-
-“Oh no!” you mutter, as you hustle to gather your belongings.  The sound of horses can be heard outside, a caravan is getting ready to depart.  Quickly you make your way to the window.
-.
-“Fine, then the only thing to do is for you to marry him.”  Your eyes widen as large as saucers at that pronouncement.
-
-“Oh papa! Thank you!” Her deep sonorous voice, punctuated by gravelly sounding giggles of delight, sends cold shivers down your back.  Quickly you exit the window and jump down into one of the wagons.  The passengers are startled by your sudden appearance.  The wagon lurches forward and begins its march.
-
-“Where are we headed?” you ask, trying your best to catch your breath and secure your belongings.
-
-“Berdusk, about a week's travel from here.” One of the passengers answers.
-
-“Perfect,” you say, letting out a sigh of relief.
-
-## Response
-Komal Re sits back and takes note of the other passengers. No one shady. Looks like he's still in the clear. It's been a while now since he's gotten even a sniff of Lord Keim's bounty hunters. Maybe he's finally lost them for good.
-
-Komal Re reaches into his pack, pulls out his cloak, and covers himself with it. Hopefully this Berdusk has a decent tailor. He pulls his hat down over his eyes and begins to drift off to the gentle rocking of the wagon.
