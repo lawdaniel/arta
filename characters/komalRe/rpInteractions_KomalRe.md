@@ -1,5 +1,6 @@
 ---
 title: RP Interaction 1
+grandparent: Characters
 parent: Komal Re
 layout: default
 ---
