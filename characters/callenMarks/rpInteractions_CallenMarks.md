@@ -1,6 +1,6 @@
 ---
 title: RP Interactions Callen Marks
-grandparent: Characters
+grand_parent: Characters
 parent: Callen Marks
 layout: default
 ---
