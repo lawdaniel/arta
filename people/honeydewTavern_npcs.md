@@ -1,6 +1,6 @@
 ---
 title: Honeydew Tavern Owners
-parent: People
+parent: NPCs
 layout: default
 ---
 

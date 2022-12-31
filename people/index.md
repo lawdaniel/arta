@@ -1,5 +1,5 @@
 ---
-title: People
+title: NPCs
 has_children: true
 layout: default
 ---
