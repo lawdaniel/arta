@@ -1,7 +1,6 @@
 ---
 title: Norwall
 parent: Kingdom of Aldamere
-grand_parent: Places
 layout: default
 ---
 

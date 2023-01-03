@@ -1,10 +1,8 @@
 ---
 title: Kingdom of Aldamere
-parent: Places
 has_children: true
 layout: default
 ---
-
 
 # Kingdom of Aldamere
 ## Excerpt from the Traveler’s Guide to Arta by Sir Fenton Silvergraft
