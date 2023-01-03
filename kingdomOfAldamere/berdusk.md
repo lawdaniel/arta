@@ -1,6 +1,7 @@
 ---
 title: Berdusk
 parent: Kingdom of Aldamere
+has_children: true
 layout: default
 ---
 
