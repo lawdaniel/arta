@@ -8,10 +8,13 @@ layout: default
 # The Pixie Dust
 Confectioners Shop and Bakery in the Merchant District of Berdusk
 
-**Owners:**<br>
-Rupert and Emi Bottinger<br>
+## Owners
+Rupert and Emi Bottinger
+
+## Species
 Halflings
 
+## Description
 The Pixie Dust is owned and operated by the Bottinger family.  Renowned for its sweet treats and honey cakes, local patrons and travellers alike gladly spend their coppers and silvers for this delicacy.  For over 40 years the family has prided themselves on their baked goods and religiously guard their secret recipes.
 
 It is rumored that Rupert discovered an old wizards spell book one day.  Not knowing this he wrote his recipes in the book that enchanted his baked goods to be so amazing!
