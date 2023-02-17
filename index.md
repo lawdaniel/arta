@@ -12,7 +12,7 @@ Norm said it's working title but I love it.
 
 If you have any content changes you wants, just let me (Dan) know. I don't mind being the editor but I don't want to be the sole content creator. So anything you have for your character, notes you've taken, or anything you want to contribute, just send it to me in DM, email, or as a text file. Please no PDFs or Word docs or anything that requires me to open another third party app where I have to worry about formatting. Keep my workflow simple please.
 
-![The Natural 1s](assets/images/android-chrome-512x512.png)
+![The Natural 1s](assets/images/android-chrome-192x192.png)
 {: .mx-auto}
 ----
 
