@@ -14,9 +14,9 @@ As with all stories collected from this time period, I warn the reader to be war
 
 Sept Dha Komal (d-hal koomal) was one of the Seven Great Septs of Halfling society. The number of Halflings that belonged to each sept has been unclear to me. The Halflings of today might seem like happy go-lucky travellers and adventurers but ask yourself, when was the last time you stepped into the actual home of a Halfling? When was the last time, a Halfling told you where they came from? Even today, the Halflings keep their society secret from the outside. Trying to piece together the quantitative aspects of a society from a couple of milennia ago has been difficult.
 
-But there has been certain things that have been observed and/or has been recorded by outsiders. Each of the seven septs were ruled by a Neta. In Common, the closest word we have for this is Chief or Chieftan. However, the neta of a sept was more than a chieftan. She or He or They were also the spiritual heart of that sept. If the neta was the heart, then the neta's family were other organs of this body. Without the neta and their family, the sept wouldn't be what it was. I am unsure if a neta's ancestors were the ones who founded their particular sept. How does a sept come about? Why do people choose to follow a family?
+But there has been certain things that have been observed and/or has been recorded by outsiders. Each of the seven septs were ruled by a Neta. In Common, the closest word we have for this is Chief or Chieftan. However, the neta of a sept was more than a chieftan. She or He or They were also the spiritual heart of that sept. If the neta was the heart, then the neta's family were the other organs of this body. Without the neta and their family, the sept wouldn't have a spiritual direction. They would cease to be a sept. I am unsure if a neta's ancestors were the ones who founded their particular sept. How does a sept come about? Why do people choose to follow a family?
 
-The gathering of each neta was called the Council of Seven. The Last Stand of Sept Dha Komal takes place a milennia before the Grand Orkestra. There are many rumors of this great gathering of Halflings. It was large enough to have been recorded by other species's historians but in true Halfling fashion, the details of that gathering has been kept murky. I have yet to track down the requisite texts to make a final judgement on the rumors that surround that event. Either way, the fall of Sept Dha Komal remains legendary in Halfling society.
+The gathering of each neta was called the Council of Seven. The Last Stand of Sept Dha Komal takes place a milennia before the Grand Orkestra. There are many rumors of this great gathering of Halflings. It was large enough to have been recorded by other species's historians but in true Halfling fashion, the details of that gathering has been kept murky. I have yet to track down the requisite texts to make a final judgement on the rumors that surround that event. Either way, the fall of Sept Dha Komal remains legendary in Halfling history.
 
 Hira Dha Komal was the neta of Sept Dha Komal when it fell. She had ascended to her position when her mother passed of old age. Her mother, Narada, had been instrumental in keeping the peace between the seven septs of Halflings. There was never open warfare between the septs but skirmishes seemed to be common. In her time as ruler, Hira had sought to unite the seven septs but as with the attempts from her mother, the septs could never find a way to overcome their differences. I have been unable to discover the motive for uniting the septs. If the seven septs were not trying to destroy each other, what would be the purpose of a unification? What would they work together for? Does it have anything to do with the Grand Orkestra?
 
@@ -30,9 +30,9 @@ Hira's plea for unification to repel this army went unheeded. The family account
 
 Hira and Sept Dha Komal was alone. They were alone in knowing that their Halfling world was about to end from a threat from the outside and they would continue to be alone when they marched to face this army. There are many things in this account that I have been unable to confirm but I am hot on the trail to a lead to that I believe will tell me why Sept Dha Komal did not flee. Why did they feel that they had to defend all of Halfling society?
 
-Hira led Sept Dha Komal to the Gaharee Canyon. The canyon was a major feature that separated the Halfling world from the outside. The army of umber hulks had to cross through this canyon and it was here that Hira had chosen to make their stand. Sept Dha Komal wasn't outnumbered but an umber hulk would have towered over a Halfling. It would have taken a dozen Halflings to take down even just one of these monsters. Hira had brought nearly the entire sept. Every person who was capable of bearing a weapon had been readied for battle. Everyone else had come to support the camp prepare their loved ones. More importantly, the neta had brought her whole family. They would have been the most powerful warriors in the sept and every single one of them would have been needed.
+Hira led Sept Dha Komal to the Gaharee Canyon. The canyon was a major feature that separated the Halfling world from the outside. The army of umber hulks had to cross through this canyon and it was here that Hira had chosen to make their stand. Sept Dha Komal wasn't outnumbered but an umber hulk would have towered over a Halfling. It would have taken a dozen Halflings to take down even just one of these monsters. Hira had brought nearly the entire sept. Every person who was capable of bearing a weapon had been readied for battle. Everyone else had also come to support the camp. Food needed to be prepared. Tents had to be put up. Loved ones had to be hugged and remembered. More importantly, Neta Hira had brought her whole family. They would have been the most powerful warriors in the sept and every single one of them would have been needed. The heart of the sept had brought the spiritual core of the sept.
 
-Reports of that day told of the two forces faceing off with each other from either side of the Gaharee Canyon. On one side was a sea of monsters burrowing through the ground and exploding underneath the feet of other umber hulks. On the other, an entire sept that knew this was possibly their last day on this mortal plane. The mood was decribed as somber and resolute. Whatever the reason they had for not running must be rediscovered! At the crack of dawn of the first day of battle, both sides rushed down their canyon sides and clashed at the bottom. Hira led charge with a cry and thus begun a battle that would last two whole days. Two more than would have seemed possible. 
+Reports of that day told of the two forces facing off from either side of the Gaharee Canyon. On one side was a sea of monsters burrowing through the ground and exploding underneath the feet of other umber hulks. On the other, an entire sept that knew this was possibly their last day on this mortal plane. The mood was decribed as somber and resolute. Whatever the reason they had for not running must be rediscovered! At the crack of dawn of the first day of battle, both sides rushed down their canyon sides and clashed at the bottom. Hira led charge with a cry and thus begun a battle that would last two whole days. Two more than would have seemed possible. 
 
 Hira and Sept Dha Komal were devout followers of Emberway. There are accounts that Hira had spent years as a cleric before taking the mantle as Neta. This is not conclusive however for there are also accounts of extensive martial training as well. At dusk of the first day, Hira must have concluded that this fight would not last much longer. That night, she sent a runner, in the cover of darkness, to each of the other six septs to deliver an identical message. This message has been confirmed by multiple sources and from almost every sept's historical records.
 
@@ -45,24 +45,3 @@ The accounts of this divine beam was also reported in the historical accounts of
 The six septs arrived at the dawn of the third day. Many hours after the radiant beam appeared from the sky. What they found was chaos. The umber hulks were no longer under the control of any one mind. In fact, they had already turned on each other and had begun fighting between themselves. The canyon was a orgy of death. This was a strong clue that Hira and the radiant beam had destroyed the dark wizard and with it, any control over these monsters. The six septs launched their attack from the top of the canyon. Their sorcerors and paladins were able to destroy the remaining umber hulks with a bevy of magic.
 
 In the aftermath, the body of Hira and the wizard were never found. Sept Dha Komal had indeed perished with Hira has her family. The people of Sept Dha Komal were absorbed into the remaining septs. The name Komal would be used to honor Hira's lineage for a milennia. This was to all change when the Grand Orkestra met but that is another historical account for another chapter. This is was my account of Neta Hira Dha Komal and The Last Stand of Sept Dha Komal.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
