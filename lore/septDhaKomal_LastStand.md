@@ -6,8 +6,8 @@ parent: Lore and History
 
 # The Last Stand of Sept Dha Komal
 
-## Historical Accounts of the Heroes of the BootyLicious Era
-**as collected by Bootykick McBootyton**
+## Historical Accounts of the Heroes of the [Need era name from Norm] Era
+**as collected by Sir Ulrich (Ull-Rick) son of Lorne, priest of the god Mekomiss the Chronicler**
 
 
 As with all stories collected from this time period, I warn the reader to be wary of tall tales. It is often quite difficult to separate the truth from the hyerbolic rantings of a tavern bard. I have taken all precautions to provide the most accurate historical acccount possible.
