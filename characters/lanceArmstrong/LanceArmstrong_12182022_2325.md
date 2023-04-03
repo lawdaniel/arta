@@ -80,3 +80,21 @@ Lance couldn't stand to look at the monster he had become any longer. He grabbed
 
 Taking a deep breath, Lance tried to calm himself. He knew that lashing out further wouldn't solve anything. He needed to find a way to remove this curse and return to his normal form.
 He turned to Kergan and said, "I need a remove curse spell. Do you have one or do you know someone who does?"
+
+## Response from Norm
+Kergan stoops down to the shattered pieces of the mirror.  With his large and calloused hands he begins gathering the larger portions and piles them together.  There is a sadness to him as he does so.
+
+"I'm sorry master Paladin, but I do not have a remove curse scroll and none but the larger churches or a cleric of some skill can help you."
+
+He cuts himself on a chunk of glass but he ignores it as he continues to sweep together the pieces.  Lance stops to see the handy work of his rage.  Upon reflection a small mirror would likely fetch 5gp or so, but a large full length mirror would likely cost a 100 times as much!  For a small town blacksmith who was forced from his home and workshop, this was a small fortune.  But this was something more, as you notice tears begin to well in Kergan's eyes.
+
+"This was my wife's.  I gave it to her as a wedding gift almost 20 years ago.  I scrapped together almost all I had to buy it at the time, had it crafted custom.  We lived in Myrtle for nearly all our lives.  She passed away almost 2 years ago.  Now Myrtle and my shop are gone as well."  He gathers the pieces into a sack, small cuts bleed slightly, but Kergan ignores the pain as he gently gathers the smaller pieces.
+
+"I'm sorry the armor was so terribly cursed master Paladin, I honestly meant no harm.  Please, leave me be." 
+
+## Response from Lance
+Lance's heart went out to Kergan as he watched the blacksmith gather the shards of the shattered mirror. He couldn't imagine the pain and loss that Kergan must be feeling, and he felt guilty for adding to his burden.
+
+He knelt down beside Kergan and helped him gather the remaining shards. "I'm sorry, Kergan. I didn't mean to lose control like that. I know this mirror was special to you, and I'll do whatever I can to make this right.”
+
+Kergan shook his head and stood up, the sack of shards in his hand. "There's no fixing this, Lance. It's just a reminder of everything I've lost. But I appreciate your help. And I'm sorry for the part I played in your curse. I never meant for any of this to happen."
