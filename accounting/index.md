@@ -1,6 +1,7 @@
 ---
 title: Accounting
 layout: default
+nav_exclude: true
 ---
 # Treasure and Gold Accounting
 This really should just be a 
