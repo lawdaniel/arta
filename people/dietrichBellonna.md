@@ -1,5 +1,5 @@
 ---
-title: Gideon Beck
+title: Dietrich Bellonna
 parent: NPCs
 layout: default
 ---
