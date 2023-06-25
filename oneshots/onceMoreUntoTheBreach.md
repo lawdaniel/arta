@@ -10,3 +10,30 @@ It's almost pointless to bring up the Azure Lord himself, Callen Marks. Children
 Like all legends of great people, you never really get the whole story. Our adventure today occurs in a place where such great heroes go to rest. A place where the not-so legendary can live out the rest of their days in peace.
 
 Or so they thought.
+
+# Things to do before the session
+## Level and Backstory
+Create a level 12 player character (PC).
+
+It'll be up to you to decide how long your PC has been at The Open Arms Retreat. The longer you've been there, the better you know the facilities BUT the older you are.
+
+## Items, Magical and Non-Magical
+Choose 5 magical items that your PC came to The Open Arms with. Your PC can have up to 2 rare items, if you wish. However, you might want to consult The Open Arms handbook once more.
+
+From the official handbook of The Open Arms:
+```
+We at, The Open Arms, welcome you to the rest of your life!
+
+Upon registration, all adventurers must surrender all their items and gear to the staff. These items will be stored in The Vault and will be kept there for safe keeping. This is for your safety, as well as the staff and other guests.
+
+However, we at The Open Arms, understand just how attached an adventurer is to their personal gear. For your mental health, each guest will be allowed to keep ONE of their most precious items with them. It can only be jewelry or armor. In other words, no weapons.
+
+If you are worried about the "One Item Policy", don't be! Our proprietary anti-magic field keeps the whole center safe. No one is going to accidentally set their room on fire with a Necklace of Fireball. 
+```
+## Sneakiness
+PCs will have a chance to roll 1d4 to see how many items they were able to sneak into the home. The number rolled will be number of armor, jewelry, or small weapon they would have attempted to hide on their persons when registering. For each item, also roll Sleight of Hand/straight DEX at DC 12.  Another option is to roll Deception at DC 15. 
+
+We'll be doing this in-person.
+![image](https://github.com/lawdaniel/arta/assets/121042998/0e1b8928-edb9-4717-b54c-db08f34d3353)
+
+
